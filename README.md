@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## SHOPCAR PROJECT
+![1](https://github.com/juanfsouza/ShopCar/assets/88254614/aa9dfd76-aa53-4e6c-aa53-09b06bec5021)
 
 ## Getting Started
 
