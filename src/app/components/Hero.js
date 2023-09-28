@@ -14,7 +14,7 @@ import Image from 'next/image';
 //motion
 import { motion, easeInOut } from 'framer-motion';
 
-// vairants
+// variants
 import { fadeIn } from '/variants';
 
 export default function Hero() {

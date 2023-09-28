@@ -11,7 +11,7 @@ import {
     MdOutlineMap,
 } from 'react-icons/md';
 
-// react intersection bserver
+// react intersection server
 import { useInView } from 'react-intersection-observer';
 
 // motion
